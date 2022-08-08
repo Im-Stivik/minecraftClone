@@ -1,0 +1,3 @@
+/home/stivik/CLionProjects/minecraftClone/cmake-build-debug/CMakeFiles/minecraftClone.dir
+/home/stivik/CLionProjects/minecraftClone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stivik/CLionProjects/minecraftClone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
